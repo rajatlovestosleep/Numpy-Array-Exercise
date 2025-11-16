@@ -9,7 +9,6 @@ The notebook covers all essential NumPy concepts — from array creation to resh
 ### 🧱 **Array Creation**
 
 * Creating arrays using `np.array()`
-* 
 ### 🔍 **Indexing & Slicing**
 
 * Accessing elements by index
